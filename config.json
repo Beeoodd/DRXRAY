@@ -88,7 +88,6 @@
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -116,7 +115,6 @@
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -144,7 +142,6 @@
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -173,7 +170,6 @@
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -202,7 +198,6 @@
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls",
                     "quic"
                 ],
                "metadataOnly":false
